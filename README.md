@@ -75,7 +75,7 @@
 <br />
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fingertips18&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
+    <img src="https://fingertips-github-profile-trophy.vercel.app/?username=fingertips18&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
 </div>
 
 <h2 align="center">

@@ -13,7 +13,7 @@
     </a>
 </p>
 <p style="margin-top: -10px" align="center">
-    <img src="https://komarev.com/ghpvc/?username=Fingertips18&style=flat&color=brightgreen" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=fingertips18&style=flat&color=brightgreen" alt="Profile Views" />
     <a href="https://linkedin.com/in/ghiantan">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -40,7 +40,7 @@
     <table>
         <tr>
             <td><img src="./assets/writing.gif" alt="Writing" width="20"/> Currently working on</td>
-            <td><strong>Microservices</strong></td>
+            <td><strong>AI related projects</strong></td>
         </tr>
         <tr>
             <td><img src="./assets/plant.gif" alt="Plant" width="20"/> Learning</td>
@@ -52,7 +52,7 @@
         </tr>
         <tr>
             <td><img src="./assets/rocket.gif" alt="Rocket" width="20"/> Find my work</td>
-            <td><a href="https://github.com/Fingertips18">Github</a> & <strong>Bitbucket</strong></td>
+            <td><a href="https://github.com/fingertips18">Github</a> & <strong>Bitbucket</strong></td>
         </tr>
         <tr>
             <td><img src="./assets/handshake.gif" alt="Handshake" width="20"/> Reach me</td>
@@ -60,7 +60,7 @@
         </tr>
         <tr>
             <td><img src="./assets/thunderbolt.gif" alt="Thunderbolt" width="20"/> Fun fact</td>
-            <td><strong>I do calisthenics</strong> 💪</td>
+            <td><strong>I talk to dumbbells regularly</strong> 💪</td>
         </tr>
     </table>
 </div>
@@ -69,13 +69,13 @@
 
 <div align="center">
     <img src="https://github-readme-stats-fingertips.vercel.app/api?username=fingertips18&theme=radical&hide_border=true" alt="Stats" height="200" />
-    <img src="https://github-readme-stats-fingertips.vercel.app/api/top-langs/?username=Fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
+    <img src="https://github-readme-stats-fingertips.vercel.app/api/top-langs/?username=fingertips18&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="200"/>
 </div>
 
 <br />
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fingertips18&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=fingertips18&theme=radical&no-frame=true&no-bg=true&column=-1" alt="Trophies"/>
 </div>
 
 <h2 align="center">
@@ -97,5 +97,5 @@
     <br>
     Feel free to <strong>Contact</strong>, <strong>Connect</strong>, and <strong>Collaborate</strong>.
     <br>
-    <i>Ghian Tan @ Fingertips</i>
+    <i>Ghian Tan <a href="https://fingertips18.github.io">@fingertips</a></i>
 </p>
